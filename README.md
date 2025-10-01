@@ -1,1 +1,3 @@
-# Alfalah-Connect-Privacy-Page
+# Privacy Page
+
+For Alfalah Connect
